@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: TPerl |cFF00CCFFMiniCE|r Bridge
+## Notes: Styles TPerl aura timers with MiniCE's Unit Frames settings, and gives TPerl aura icons the nameplate aura look.
+## Author: DrPurr
+## Version: 1.0.0
+## Dependencies: TPerl, MinimalistCooldownEdge
+## OptionalDeps: TPerl_PlayerBuffs
+## Category: Unit Frames
+
+TPerl_MiniCE.lua
+AuraBorders.lua
+HideBuffs.lua
